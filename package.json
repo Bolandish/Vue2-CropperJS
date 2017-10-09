@@ -14,10 +14,14 @@
     "vue2",
     "cropperjs"
   ],
-  "author": "“Thomas <“thomas@companyoung.com”>",
+  "author": "“Thomas Bolander<“privat@thomasbolander.dk”>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Bolandish/Vue2-CropperJS/issues"
   },
-  "homepage": "https://github.com/Bolandish/Vue2-CropperJS#readme"
+  "homepage": "https://github.com/Bolandish/Vue2-CropperJS#readme",
+  "dependencies": {
+    "cropperjs": "^1.1.0",
+    "vue": "^2.4.4"
+  }
 }

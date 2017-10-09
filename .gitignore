@@ -1,6 +1,6 @@
 
-.idea/CropperJS.iml
+.idea/*
 
-.idea/modules.xml
+node_modules/*
 
-.idea/workspace.xml
+package-lock.json
