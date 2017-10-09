@@ -1,0 +1,23 @@
+{
+  "name": "vue2-cropperjs",
+  "version": "1.0.0",
+  "description": "CropperJS component for Vue2",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolandish/Vue2-CropperJS.git"
+  },
+  "keywords": [
+    "vue2",
+    "cropperjs"
+  ],
+  "author": "“Thomas <“thomas@companyoung.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolandish/Vue2-CropperJS/issues"
+  },
+  "homepage": "https://github.com/Bolandish/Vue2-CropperJS#readme"
+}
